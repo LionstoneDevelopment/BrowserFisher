@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nixie tube
+* source:	https://sketchfab.com/3d-models/nixie-tube-5c984fafecb7408db6f6097a929e6f18
+* author:	Shelest (https://sketchfab.com/shelest)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nixie tube" (https://sketchfab.com/3d-models/nixie-tube-5c984fafecb7408db6f6097a929e6f18) by Shelest (https://sketchfab.com/shelest) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

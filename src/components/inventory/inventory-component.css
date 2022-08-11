@@ -1,0 +1,76 @@
+.inventory-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: #14A2E5;
+    border: 10px solid #FF9A01;
+}
+
+.fish-container {
+    display: grid;
+    width: 100%;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.fish-container div  {
+    position: relative;
+    width: 100%;
+    min-height: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.fish-container .fish-info {
+    font-size: 2rem;
+}
+
+.fish-container .fish-info .coin-img {
+    left: 0;
+    top: 70px;
+    max-width: 30px;
+}
+
+
+.fish-container .voorntje img {
+    top: 0;
+    max-width: 70px;
+    position: absolute;
+    z-index: 0;
+}
+
+.fish-container .voorntje h2 {
+    position: relative;
+    color: #F9ED33;
+    z-index: 5;
+    top: 55px;
+}
+
+.bottom-container {
+    position: absolute;
+    bottom: 50px;
+    right: 0;
+    display: flex;
+    justify-content: flex-end;
+    padding: 0 30px;
+}
+
+.sell-button {
+    width: 200px;
+    height: 100px;
+    background-color: #F9ED33;
+    border: 5px solid #FF9A01;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.sell-button::hover {
+    background-color: #FF9A01;
+    border: 5px solid #F9ED33;
+    transition: .3s;
+}
+
+
+.sell-button span {
+    font-size: 3rem;
+}

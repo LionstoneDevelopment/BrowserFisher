@@ -1,0 +1,11 @@
+Model Information:
+* title:	Small Stylized House
+* source:	https://sketchfab.com/3d-models/small-stylized-house-be5c115c4dca494881b87409e6246289
+* author:	catzer (https://sketchfab.com/catzer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Small Stylized House" (https://sketchfab.com/3d-models/small-stylized-house-be5c115c4dca494881b87409e6246289) by catzer (https://sketchfab.com/catzer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

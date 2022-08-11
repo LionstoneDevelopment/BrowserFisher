@@ -1,0 +1,43 @@
+.canvas-container {
+    width: 100%;
+    height: 100vh;
+}
+
+div.pond {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-color: #14A2E5;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.stats-row {
+    font-size: 2rem;
+    padding: 50px 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.total-coins {
+    display: flex;
+    align-items: center;
+    font-size: 3rem;
+}
+
+.total-coins img {
+    max-height: 40px;
+    margin-right: 20px;
+}
+
+.fisharea-info {
+    z-index: 1;
+    position: absolute;
+}
+
+.fisharea-info .top-title {
+    background-color: #F9ED33;
+    padding: 20px;
+    border-radius: 20px;
+}

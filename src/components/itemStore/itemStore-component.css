@@ -1,0 +1,18 @@
+.upgrade-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.upgrade-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #bbb;
+    width: 100%;
+    min-height: 150px;
+}
+
+
+.upgrade-item span {
+    font-size: 3rem;   
+}

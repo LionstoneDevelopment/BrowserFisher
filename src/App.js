@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import FishArea from './components/fishArea/fishArea-component';
+import Inventory from './components/inventory/inventory-component';
+import ItemStore from './components/itemStore/itemStore-component';
 
-function App() {
+import './App.css';
+import './components/fishArea/fishArea-component.css';
+import './components/inventory/inventory-component.css';
+import './components/itemStore/itemStore-component.css';
+
+
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <FishArea/>
+      <Inventory/>
+      <ItemStore/>
     </div>
   );
 }
